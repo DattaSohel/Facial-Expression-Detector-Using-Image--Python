@@ -23,7 +23,6 @@ This project implements a Facial Expression Detector utilizing DeepFace, OpenCV,
 The primary objective is to accurately identify and classify human emotions such as happiness, sadness, anger, surprise, fear, and disgust based on facial features.
 
 ## Key Components: 
-<hr>
 
 - <b>DeepFace:</b> This powerful library is employed for facial attribute analysis, providing robust models for emotion detection. 
 It leverages state-of-the-art algorithms to ensure high accuracy in recognizing emotions.

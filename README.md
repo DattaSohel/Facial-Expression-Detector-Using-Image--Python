@@ -22,11 +22,9 @@ This **Facial Expression Detector** is a deep learning-based project that classi
 This project implements a Facial Expression Detector utilizing DeepFace, OpenCV, and Matplotlib to analyze and visualize facial emotions from images. 
 The primary objective is to accurately identify and classify human emotions such as happiness, sadness, anger, surprise, fear, and disgust based on facial features.
 
-Key Components:
+**Key Components:**
 
 <b>DeepFace:</b> This powerful library is employed for facial attribute analysis, providing robust models for emotion detection. 
 It leverages state-of-the-art algorithms to ensure high accuracy in recognizing emotions.
-
 <br><b>OpenCV:</b> Used for image processing tasks such as face detection and manipulation. OpenCV facilitates the extraction of facial regions from images, which are then analyzed for emotional content.
-
 <br><b>Matplotlib:</B> This library is utilized for visualizing the results, allowing users to see the detected emotions alongside the original images.

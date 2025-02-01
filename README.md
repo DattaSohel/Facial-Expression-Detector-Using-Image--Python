@@ -29,4 +29,4 @@ It leverages state-of-the-art algorithms to ensure high accuracy in recognizing 
 
 <br><b>OpenCV:</b> Used for image processing tasks such as face detection and manipulation. OpenCV facilitates the extraction of facial regions from images, which are then analyzed for emotional content.
 
-<br><b?Matplotlib:</B> This library is utilized for visualizing the results, allowing users to see the detected emotions alongside the original images.
+<br><b>Matplotlib:</B> This library is utilized for visualizing the results, allowing users to see the detected emotions alongside the original images.

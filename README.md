@@ -26,5 +26,5 @@ The primary objective is to accurately identify and classify human emotions such
 
 - <b>DeepFace:</b> This powerful library is employed for facial attribute analysis, providing robust models for emotion detection. 
 It leverages state-of-the-art algorithms to ensure high accuracy in recognizing emotions.
-- <br><b>OpenCV:</b> Used for image processing tasks such as face detection and manipulation. OpenCV facilitates the extraction of facial regions from images, which are then analyzed for emotional content.
-- <br><b>Matplotlib:</B> This library is utilized for visualizing the results, allowing users to see the detected emotions alongside the original images.
+- <b>OpenCV:</b> Used for image processing tasks such as face detection and manipulation. OpenCV facilitates the extraction of facial regions from images, which are then analyzed for emotional content.
+- <b>Matplotlib:</B> This library is utilized for visualizing the results, allowing users to see the detected emotions alongside the original images.
